@@ -12,7 +12,6 @@ NodeCG is a broadcast graphics framework and application. It provides an API and
 
 Still not clear on what NodeCG is and what it is used for? These videos go over some of the more prominent uses of NodeCG:
 - [Tip of the Hats 2016 Graphics Overview](https://www.youtube.com/watch?v=F0xGN-aSytA)
-- [Awesome Games Done Quick 2016 Graphics Overview](https://www.youtube.com/watch?v=oAzj9Zddogs)
 - [Awesome Games Done Quick 2017 Graphics Overview](https://www.youtube.com/watch?v=vBAZXchbI3U&list=PLTEhlYdONYxv1wk2FsIpEz92X3x2E7bSx)
 
 Want to suggest a bundle for inclusion? Open a PR!
@@ -27,7 +26,7 @@ Want to suggest a bundle for inclusion? Open a PR!
 - [Dashboard Polymer Elements](#dashboard-polymer-elements)
 
 ## Complete Systems
-NodeCG bundles (or suites of bundles) that provide an entire production system by themselves. They're generally targeted at a specific game or type of show, though some may be more generalized. Right now, there is only a single published Bundle for NodeCG 0.9:
+NodeCG bundles (or suites of bundles) that provide an entire production system by themselves. They're generally targeted at a specific game or type of show, though some may be more generalized. Right now, there is only a single published bundle for NodeCG 0.9:
 
 - [sgdq17-layouts](https://github.com/GamesDoneQuick/sgdq17-layouts) - The on-stream graphics used during Summer Games Done Quick 2017.
 
@@ -56,7 +55,7 @@ Bundles which provide some form of visual information on an overlay.
 - [prime-socialmedia](https://github.com/ProbablePrime/prime-socialmedia) - A NodeCG social media displayer for popups with information on several social media platforms.
 - [streen](https://github.com/SupportClass/streen) - a centralized interface for interacting with Twitch Chat.
 - [Dashboard](https://github.com/nodecg/dashboard) - A Standalone application to check and use your NodeCG Dashboard.
-- [NodeCG-OBS](https://github.com/nodecg/nodecg-obs) - A OBS-Websocket bower module to connect to multiple OBS instances at the same time.
+- [NodeCG-OBS](https://github.com/nodecg/nodecg-obs) - adds the ability to connect to 1-4 instances of OBS (via obs-websocket) to your NodeCG bundle
 
 ## Dashboard Polymer Elements
 These are [Polymer](https://www.polymer-project.org/) elements meant to be used as part of a dashboard panel.
